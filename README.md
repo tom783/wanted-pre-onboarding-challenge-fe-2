@@ -1,6 +1,7 @@
 # 원티드 프리온보딩 FE 2차 - Typescript
 
 ## Repository : wanted-pre-onboarding-challenge-fe-2
+## Github page : https://tom783.github.io/wanted-pre-onboarding-challenge-fe-2/index.html
 ---
 
 ## [ 📢자기소개 ]
